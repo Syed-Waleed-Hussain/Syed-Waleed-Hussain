@@ -1,5 +1,30 @@
 # 💫 About Me:
-🚀 Syed Waleed | CS @ FAST NUCES<br>💡 Passionate about CS, Math & Problem-Solving<br>📚 Educator at WalBit | Exploring AI & Web Dev<br>💻 Building & Learning
+# 🚀 Syed Waleed Hussain  
+
+I am **Syed Waleed Hussain**, a passionate **programmer** and **software developer**.  
+I specialize in **Data Structures, Object-Oriented Programming (OOP), and Operating Systems**.  
+
+## 🎓 Education  
+* **FAST National University** (2023 - 2027)  
+* **Degree**: Computer Science (Machine Learning & Artificial Intelligence)  
+
+## 💻 Technical Expertise  
+* **Programming Languages**: C++, Python, Assembly  
+* **Core Concepts**: Data Structures & Algorithms, OOP, OS, Linux System Programming  
+
+
+## 🎤 Creative Side (Poetry & Art)  
+, I am also a **poet** 🌙✨, known as **"Sittamgar"**.  
+, My poetry explores deep emotions, philosophy, and life’s complexities.  
+, Performed at events like **Bonfire Night Mushaira at FAST NUCES**.  
+
+## 🌍 Online Presence & Contributions  
+* **GitHub**: Uploading projects on **Data Structures, Operating Systems, and Internship tasks**  
+* **YouTube - "WalBit"**: Creating **educational lecture videos** on CS topics  
+  - 📂 **Playlists**: Discrete Structures, Multivariable Calculus ,Computer Architecture , Object oriented Programming 
+
+## 🚀 Future Goals  
+, Aspiring to become an **expert in AI & ML** while continuing my **poetry journey** 🎭.  
 
 
 ## 🌐 Socials:
